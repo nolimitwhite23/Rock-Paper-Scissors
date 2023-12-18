@@ -1,0 +1,24 @@
+body { 
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+}
+
+.container {
+    text-align: center;
+}
+
+.choices {
+    margin-top: 100px;
+    align-items: center;
+}
+
+#button {
+    padding: 1em 25px;
+    border-radius: 25px;
+    margin: 0;
+}
+
+#button:hover {
+    cursor: pointer;
+}
